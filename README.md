@@ -1,5 +1,8 @@
 # go-db-tools
 
+This is my personal tools for working with DB instances.
+Because **I love zero dependency <3**
+
 ## build nested model
 
 ### Models struct:
